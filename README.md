@@ -1,6 +1,6 @@
 # temporal-computer-architecture
 
-Redundant Temporal Computing Clusters and Local Entropy Reversal in Cauchy Horizons
+[Redundant Temporal Computing Clusters and Local Entropy Reversal in Cauchy Horizons](https://zenodo.org/records/19976302?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImNmMDhhZDRhLTUxMWItNDQ3ZC05MTJkLTI5NDA2NWI0YmIyMiIsImRhdGEiOnt9LCJyYW5kb20iOiJkNmU0NzcwYTkyYTVmZWUwOTJiNTNkNDk5ZjM4ZTc1MiJ9.rBbHcSSJyEGiw5SM_q7dFbJesTmmkrOc9EkEBQeYieV1u-vWIB20gZ21kMRlvs7Td7ANchIO1-28yoh38LM7SQ)
 
 Author: Panagiotis Skarvelis
 
